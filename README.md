@@ -1,5 +1,5 @@
 # precondition 
-* install python (preferably 3.X)
+* install python 3.6 or higher
 * pip install -r requirements.txt
 
 # run test
